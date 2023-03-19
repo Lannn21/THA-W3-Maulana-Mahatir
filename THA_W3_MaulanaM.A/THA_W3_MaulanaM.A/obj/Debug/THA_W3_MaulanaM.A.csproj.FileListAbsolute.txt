@@ -1,0 +1,12 @@
+C:\Users\Olan\source\repos\THA_W3_MaulanaM.A\THA_W3_MaulanaM.A\bin\Debug\THA_W3_MaulanaM.A.exe.config
+C:\Users\Olan\source\repos\THA_W3_MaulanaM.A\THA_W3_MaulanaM.A\bin\Debug\THA_W3_MaulanaM.A.exe
+C:\Users\Olan\source\repos\THA_W3_MaulanaM.A\THA_W3_MaulanaM.A\bin\Debug\THA_W3_MaulanaM.A.pdb
+C:\Users\Olan\source\repos\THA_W3_MaulanaM.A\THA_W3_MaulanaM.A\obj\Debug\THA_W3_MaulanaM.A.csproj.AssemblyReference.cache
+C:\Users\Olan\source\repos\THA_W3_MaulanaM.A\THA_W3_MaulanaM.A\obj\Debug\THA_W3_MaulanaM.A.csproj.SuggestedBindingRedirects.cache
+C:\Users\Olan\source\repos\THA_W3_MaulanaM.A\THA_W3_MaulanaM.A\obj\Debug\THA_W3_MaulanaM.A.Main.resources
+C:\Users\Olan\source\repos\THA_W3_MaulanaM.A\THA_W3_MaulanaM.A\obj\Debug\THA_W3_MaulanaM.A.Properties.Resources.resources
+C:\Users\Olan\source\repos\THA_W3_MaulanaM.A\THA_W3_MaulanaM.A\obj\Debug\THA_W3_MaulanaM.A.csproj.GenerateResource.cache
+C:\Users\Olan\source\repos\THA_W3_MaulanaM.A\THA_W3_MaulanaM.A\obj\Debug\THA_W3_MaulanaM.A.csproj.CoreCompileInputs.cache
+C:\Users\Olan\source\repos\THA_W3_MaulanaM.A\THA_W3_MaulanaM.A\obj\Debug\THA_W3_MaulanaM.A.exe
+C:\Users\Olan\source\repos\THA_W3_MaulanaM.A\THA_W3_MaulanaM.A\obj\Debug\THA_W3_MaulanaM.A.pdb
+C:\Users\Olan\source\repos\THA_W3_MaulanaM.A\THA_W3_MaulanaM.A\obj\Debug\THA_W3_MaulanaM.A.Second.resources
